@@ -22,7 +22,7 @@ Freelancer, open for permanent or temporary employment. Free to travel, preferab
 CTO, interim CTO, co-founder, product vision owner, product owner.
 
 ## Contact
-tk@system42.io
+tk@system42.io, [LinkedIn](https://www.linkedin.com/in/thorsten-kramm-92306b128/), [Xing](https://www.xing.com/profile/Thorsten_Kramm2)
 
 ## Summary
 
@@ -65,6 +65,6 @@ Migration and re-structuring of Unix monitoring in European data centers.
 
 Productowner for SaaS temperature monitoring solutions of Testo SE & Co. KGaA
 
-### Senior Consultant at KnowlITge GmbH Sankt Augustin, 12/2010 - 09/2017 (freelance).
+### 2010-12 to 2017-09 Senior Consultant at KnowlITge GmbH Sankt Augustin, (freelance).
 
 Consulting and project management for IT infrastructure, monitoring, IT automation
