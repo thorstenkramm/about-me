@@ -1,5 +1,6 @@
 # about-me
 ![Email](https://img.shields.io/badge/status-OPEN_TO_WORK-brightgreen)
+![Photo|width=400px](./assets/me.jpg)
 
 ## At a glance
 
@@ -13,6 +14,7 @@ I'm a 48-year-old (born 1974) cologne-based online technology enthusiast.
 
 Mainly, I'm focused on translating customers and business needs into software and tech stack specifications.
 
+❤️ I love writing beautiful, understandable and testable user stories.
 
 ## Current status
 
