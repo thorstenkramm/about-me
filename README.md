@@ -79,3 +79,22 @@ Productowner for SaaS temperature monitoring solutions of Testo SE & Co. KGaA
 `2010-12 to 2017-09`
 
 Consulting and project management for IT infrastructure, monitoring, IT automation
+
+## Skill matrix (excerpt)
+
+Skill | Level | Years of experience
+--- | --- | ---
+Product ownwer (product management) ⭐⭐⭐⭐⭐| Guru| 10+ 
+Product vision development ⭐⭐⭐⭐⭐| Guru| 10+ 
+Teamd lead | Expert | 10+
+Kanban in software development | Expert | 6
+Scrum |  Expert| 6 
+LAMP (Linux,Apache, MySQL, PHP)| Guru | 10+
+Git, CI/CD, Build-Piplines|  Expert | 5
+Cloud Setups (all vendors)|  Expert | 5
+IT Automation (salt-stack)| Guru | 10+
+Linux (Debian, CentOs, SuSE)| Guru | 10+
+Zabbix Monitoring| Guru | 10+
+PHP + SQL | Expert | 10+
+Python | Professional | 7
+Golang | Beginner | 1
