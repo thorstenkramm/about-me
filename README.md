@@ -1,4 +1,5 @@
 # about-me
+![Email](https://img.shields.io/badge/status-OPEN_TO_WORK-brightgreen)
 
 ## At a glance
 
@@ -15,14 +16,18 @@ Mainly, I'm focused on translating customers and business needs into software an
 
 ## Current status
 
-Freelancer, open for permanent or temporary employment. Free to travel, preferable with a low carbon footprint.
+Freelancer, open for permanent or temporary employment. Free to travel wordlwide.
 
 ## Aspired positions
 
 CTO, interim CTO, co-founder, product vision owner, product owner.
 
 ## Contact
-tk@system42.io, [LinkedIn](https://www.linkedin.com/in/thorsten-kramm-92306b128/), [Xing](https://www.xing.com/profile/Thorsten_Kramm2)
+[![Email](https://img.shields.io/badge/Email-write_me-orange?logo=Minutemailer)](mailto:tk@system42.io) 
+[![Phone](https://img.shields.io/badge/iPhone-call_me-yellow?logo=apple)](tel:+49-175-6598509) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-visit_me-blue?logo=linkedin)](https://www.linkedin.com/in/thorsten-kramm-92306b128/) 
+[![Xing](https://img.shields.io/badge/Xing-visit_me-green?logo=xing)](https://www.xing.com/profile/Thorsten_Kramm2)
+[![Map](https://img.shields.io/badge/Location-come_by-red?logo=Google%20Maps)](https://goo.gl/maps/pRCXN4auMScoFNRE7)
 
 ## Summary
 
