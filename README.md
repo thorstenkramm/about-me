@@ -1,6 +1,7 @@
 # about-me
-![Email](https://img.shields.io/badge/status-OPEN_TO_WORK-brightgreen)
-![Photo|width=400px](./assets/me.jpg)
+![Email](https://img.shields.io/badge/status-OPEN_TO_WORK-brightgreen) 
+
+<img src="./assets/me.jpg" width="300" align="right">
 
 ## At a glance
 
@@ -47,31 +48,34 @@ Programming and system administration, cloud setups, etc., I not only have a say
 
 ## Professional experience (excerpt)
 
-### 2016-12 to 2022-03 Founder and CEO of cloudradar GmbH, Germany
+### Founder and CEO of cloudradar GmbH, Germany
+`2016-12 to 2022-03`
 
 Founding a startup always means working on many positions at the same time. 
 My focus was on developing a modern software architecture for the two products [CloudRadar Monitoring](https://www.cloudradar.io) and [RPort RMM](https://rport.io).
 During the project I wrote over 1000 user stories, tested them and created executable software from them. 
 A decentralized team of up to 15 developers supported me. 
 
-I also participated in several subprojects as a software developer. 
-
-I also enjoyed performing the typical DevOps tasks: CD/CI, hosting, cloud setups
+I also participated in several subprojects as a software developer and I enjoyed performing the typical DevOps tasks: CD/CI, hosting, cloud setups
 
 
 
-### 2009-05 to 2014-12 Head of IT and Development at Semigator GmbH (formerly Semigator AG) Berlin
+### Head of IT and Development at Semigator GmbH (formerly Semigator AG) Berlin
+`2009-05 to 2014-12`
 
 Team leader of 15 software developers, productowner, restructuring of the development department, introduction of agile methods (Kanban), strategy planning, since 07/13 authorized signatory
 
-### 201-07 to 2018-12 Senior Consultant, Generali Shared Services S.c.a.r.l., Aachen, (freelance)
+### Senior Consultant, Generali Shared Services S.c.a.r.l., Aachen, (freelance)
+`201-07 to 2018-12`
 
 Migration and re-structuring of Unix monitoring in European data centers.
 
-### 2017-10 to 2018-02 Senior Product Manager, Enterprise Architecture Consulting Group, Frankfurt,  (freelance)
+### Senior Product Manager, Enterprise Architecture Consulting Group, Frankfurt,  (freelance)
+`2017-10 to 2018-02`
 
 Productowner for SaaS temperature monitoring solutions of Testo SE & Co. KGaA
 
-### 2010-12 to 2017-09 Senior Consultant at KnowlITge GmbH Sankt Augustin, (freelance).
+### Senior Consultant at KnowlITge GmbH Sankt Augustin, (freelance).
+`2010-12 to 2017-09`
 
 Consulting and project management for IT infrastructure, monitoring, IT automation
