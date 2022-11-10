@@ -1,6 +1,4 @@
 # about-me
-![Email](https://img.shields.io/badge/status-OPEN_TO_WORK-brightgreen) 
-
 <img src="./assets/me.jpg" width="300" align="right">
 
 ## At a glance
