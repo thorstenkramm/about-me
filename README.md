@@ -17,13 +17,9 @@ Mainly, I'm focused on translating customers and business needs into software an
 
 ❤️ I love writing beautiful, understandable and testable user stories.
 
-## Current status
+## Current positions
 
-Freelancer, open for permanent or temporary employment. Free to travel wordlwide.
-
-## Aspired positions
-
-CTO, interim CTO, co-founder, product vision owner, product owner.
+VP Software Incubator at [RealVNC](https://realvnc.com) responsible for the development if [RPort](https://rport.io).
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-write_me-orange?logo=Minutemailer)](mailto:tk@system42.io) 
