@@ -21,7 +21,6 @@ VP Software Incubator at [RealVNC](https://realvnc.com) responsible for the deve
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-write_me-orange?logo=Minutemailer)](mailto:tk@system42.io) 
-[![Phone](https://img.shields.io/badge/iPhone-call_me-yellow?logo=apple)](tel:+49-175-6598509) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-visit_me-blue?logo=linkedin)](https://www.linkedin.com/in/thorsten-kramm-92306b128/) 
 [![Xing](https://img.shields.io/badge/Xing-visit_me-green?logo=xing)](https://www.xing.com/profile/Thorsten_Kramm2)
 [![Map](https://img.shields.io/badge/Location-come_by-red?logo=Google%20Maps)](https://goo.gl/maps/pRCXN4auMScoFNRE7)
