@@ -3,7 +3,7 @@
 
 ## At a glance
 
-I'm a 48-year-old (born 1974) cologne-based online technology enthusiast.
+I'm a 49-year-old (born 1974) cologne-based online technology enthusiast.
 
 **My talent** is to understand the business and the technology and to lead teams.
 
