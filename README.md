@@ -17,7 +17,7 @@ Mainly, I'm focused on translating customers and business needs into software an
 
 ## Current positions
 
-VP Software Incubator at [RealVNC](https://realvnc.com) responsible for the development if [RPort](https://rport.io).
+VP Software Incubator at [RealVNC](https://realvnc.com) responsible for the development of [RPort](https://rport.io).
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-write_me-orange?logo=Minutemailer)](mailto:tk@system42.io) 
