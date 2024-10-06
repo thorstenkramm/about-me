@@ -18,7 +18,7 @@ Mainly, I'm focused on translating customers and business needs into software an
 
 ## Current positions
 
-Head of IT operations at [dimedis GmbH](dimedis.io) responsible for the sustainable growths of the IT platform.
+Head of IT operations at [dimedis GmbH](https://dimedis.io) responsible for the sustainable growths of the IT platform.
 
 ## Contact
 
